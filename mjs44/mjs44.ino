@@ -1,6 +1,6 @@
 /* 
 
-  MS43 firmware for HexBright FLEX 
+  MS44 firmware for HexBright FLEX 
   v1.5  Dec 31, 2012
   
   MJS program.
