@@ -6,8 +6,11 @@
 ## Button presses
   
   Click = quick (<0.2s) press  (on/off)
+  
   Press = brief (0.2-1s) press (change to next mode)
+  
   Long press = 1-2s press, light will fast blink (set constant mode brightness, when off switch sets)
+  
   Extended = 2+ seconds, light will slow blink
   
 ## Basic operation
@@ -31,4 +34,5 @@
   (0,1 Hz, button LED red at 1 Hz), and variable modes.
   Variable mode gets bright when the flashlight is held horizontally, dim when vertical.
   
-##  While charging, button pulses green. When charged, it's steady green.
+##  Charging
+  While charging, button pulses green. When charged, it's steady green.
